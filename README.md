@@ -4,11 +4,11 @@ RentWise is an AI agent application built to simplify the rental search process.
 Built as part of the AI Agent Real-World Application Challenge, RentWise leverages low-code tools like Langflow, OpenAI GPT-4o, and live web scraping APIs to deliver a seamless rental search experience.
 
 # 🚀 Features
-🔍 Real-Time Rental Search using Firecrawl Scrape API
-🧠 Natural Language Interaction powered by OpenAI GPT-4o
-📝 Text Parsing & Aggregation from multiple rental websites
-🧩 Langchain Components for context-aware prompt building
-💬 Chat Interface for easy user interaction
+🔍 Real-Time Rental Search using Firecrawl Scrape API  
+🧠 Natural Language Interaction powered by OpenAI GPT-4o  
+📝 Text Parsing & Aggregation from multiple rental websites  
+🧩 Langchain Components for context-aware prompt building  
+💬 Chat Interface for easy user interaction  
 🌐 Google Maps Integration (optional, for future use)
 
 # 🧱 System Architecture (LangFlow Components)
