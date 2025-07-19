@@ -26,6 +26,7 @@ To run this project locally (if using custom Python tools):
 ```
 git clone https://github.com/taufeeqraji/rentwise.git
 cd rentwise
+# Add instructions if needed for Firecrawl or custom agent configs
 ```
 
 To replicate using Langflow:
