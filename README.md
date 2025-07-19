@@ -23,10 +23,10 @@ Built as part of the AI Agent Real-World Application Challenge, RentWise leverag
 Note: This project is built using Langflow, so it doesn't require conventional code deployment.
 
 To run this project locally (if using custom Python tools):
-'''
+```
 git clone https://github.com/taufeeqraji/rentwise.git
 cd rentwise
-'''
+```
 
 To replicate using Langflow:
 
